@@ -1,0 +1,9 @@
+; Netravathi.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Netravathi"
+DESCRIPTION  'Netravathi Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+InstallKeyboardHookNetravathi
+DeInstallKeyboardHookNetravathi

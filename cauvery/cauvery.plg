@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: cauvery - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/cauvery.res" /d "_DEBUG" /d "_AFXDLL" "I:\kannada\ASCII\WINDOWS\KKT v 2.0\cauvery\cauvery.rc"" 
+Creating temporary file "F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSPB3.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "_WINDLL" /D "_AFXDLL" /FR"Debug/" /Fp"Debug/cauvery.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"I:\kannada\ASCII\WINDOWS\KKT v 2.0\cauvery\cauvery.cpp"
+]
+Creating command line "cl.exe @F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSPB3.tmp" 
+Creating temporary file "F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSPB4.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "_WINDLL" /D "_AFXDLL" /FR"Debug/" /Fp"Debug/cauvery.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"I:\kannada\ASCII\WINDOWS\KKT v 2.0\cauvery\StdAfx.cpp"
+]
+Creating command line "cl.exe @F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSPB4.tmp" 
+Creating temporary file "F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSPB5.tmp" with contents
+[
+/nologo /subsystem:windows /dll /incremental:yes /pdb:"..\KuvempuEXE/cauvery.pdb" /debug /machine:I386 /def:".\cauvery.def" /out:"..\KuvempuEXE/cauvery.dll" /implib:"..\KuvempuEXE/cauvery.lib" /pdbtype:sept 
+".\Debug\cauvery.obj"
+".\Debug\StdAfx.obj"
+".\Debug\cauvery.res"
+]
+Creating command line "link.exe @F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSPB5.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+cauvery.cpp
+Linking...
+   Creating library ..\KuvempuEXE/cauvery.lib and object ..\KuvempuEXE/cauvery.exp
+Creating command line "bscmake.exe /nologo /o"..\KuvempuEXE/cauvery.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\cauvery.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+cauvery.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

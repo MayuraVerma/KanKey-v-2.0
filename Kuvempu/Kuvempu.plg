@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Kuvempu - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSP1B5.bat" with contents
+[
+@echo off
+start /wait hcw /C /E /M "hlp\Kuvempu.hpj"
+if errorlevel 1 goto :Error
+if not exist "hlp\Kuvempu.hlp" goto :Error
+copy "hlp\Kuvempu.hlp" .\..\KuvempuEXE
+goto :done
+:Error
+echo hlp\Kuvempu.hpj(1) : error:
+type "hlp\Kuvempu.log"
+:done
+]
+Creating command line "F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSP1B5.bat"
+<h3>Output Window</h3>
+Making help file...
+hlp\Kuvempu.hpj(1) : error:
+Microsoft (R) Help Compiler
+HCRTF 4.03.0002
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+kuvempu.hpj
+    HC5011: Error: kuvempu.hpj : 
+ Cannot open the file "D:\Program Files\Microsoft Visual Studio\VC98\MFC\include\afxhelp.hm."
+
+
+
+<h3>Results</h3>
+Kuvempu.exe - 2 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

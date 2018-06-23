@@ -1,0 +1,9 @@
+; Sharavathi.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Sharavathi"
+DESCRIPTION  'Sharavathi Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+InstallKeyboardHookSharavathi
+DeInstallKeyboardHookSharavathi

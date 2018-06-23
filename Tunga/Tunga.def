@@ -1,0 +1,9 @@
+; Tunga.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Tunga"
+DESCRIPTION  'Tunga Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+InstallKeyboardHookTunga
+DeInstallKeyboardHookTunga

@@ -1,0 +1,37 @@
+ 
+// Commands (ID_* and IDM_*) 
+HIDM_ABOUTBOX                           0x10010
+HID_Button                              0x10400
+HID_TRAYMENU_ITEM1                      0x18003
+HID_MENUITEM32772                       0x18004
+HID_TRAYMENU_ITEM2                      0x18005
+HID_TRAYMENU_ITEM3                      0x18006
+HID_TRAYMENU_ITEM4                      0x18007
+HID_TRAYMENU_ITEM5                      0x18008
+HID_TRAYMENU_ITEM7                      0x18009
+HID_TRAYMENU_ITEM8                      0x1800A
+HID_TRAYMENU_ITEM9                      0x1800A
+HID_TRAYMENU_ITEM6                      0x1800B
+HID_TRAYMENU_ITEM10                     0x1800C
+HID_TRAYMENU_ITEM11                     0x18012
+ 
+// Prompts (IDP_*) 
+ 
+// Resources (IDR_*) 
+HIDR_MENU1                              0x20087
+HIDR_POPUP_MENU                         0x20087
+HIDR_TRAY                               0x20088
+HIDR_MAINFRAME                          0x200DA
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+HIDD_KUVEMPU_DIALOG                     0x20066
+HIDD_HEMAVATHI_HELP                     0x200C2
+HIDD_SHARAVATHI_HELP                    0x200C3
+HIDD_NETRAVATHI_HELP                    0x200C4
+HIDD_CAUVERY_HELP                       0x200C5
+HIDD_DIALOG1                            0x200D0
+HIDD_DIALOG2                            0x200DB
+HIDD_TUNGA_HELP                         0x203FF
+ 
+// Frame Controls (IDW_*) 

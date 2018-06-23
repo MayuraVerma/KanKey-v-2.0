@@ -1,0 +1,366 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+BUTTON_NETRAVATHI_DOWN  BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_NETRAVATHI_DOWN.bmp"
+BUTTON_NETRAVATHI_NORM  BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_NETRAVATHI_NORM.bmp"
+BUTTON_NETRAVATHI_UP    BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_NETRAVATHI_UP.bmp"
+IDB_BACKGROUND          BITMAP  DISCARDABLE     "Khajana\\BACKGROUND_1.bmp"
+BUTTON_CAUVERY_DOWN     BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CAUVERY_DOWN.bmp"
+BUTTON_CAUVERY_NORM     BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CAUVERY_NORM.bmp"
+BUTTON_CAUVERY_UP       BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CAUVERY_UP.bmp"
+BUTTON_CLOSE_DOWN       BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CLOSE_DOWN.bmp"
+BUTTON_CLOSE_NORM       BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CLOSE_NORM.bmp"
+BUTTON_CLOSE_UP         BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CLOSE_UP.bmp"
+BUTTON_CONVERTER_DOWN   BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CONVERTER_DOWN.bmp"
+BUTTON_CONVERTER_NORM   BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CONVERTER_NORM.bmp"
+BUTTON_CONVERTER_UP     BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_CONVERTER_UP.bmp"
+BUTTON_HEMAVATHI_DOWN   BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_HEMAVATHI_DOWN.bmp"
+BUTTON_HEMAVATHI_NORM   BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_HEMAVATHI_NORM.bmp"
+BUTTON_HEMAVATHI_UP     BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_HEMAVATHI_UP.bmp"
+BUTTON_SHARAVATHI_DOWN  BITMAP  DISCARDABLE     "bitmaps\\BUTTON_SHARAVATHI_DOWN.bmp"
+BUTTON_SHARAVATHI_NORM  BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_SHARAVATHI_NORM.bmp"
+BUTTON_SHARAVATHI_UP    BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_SHARAVATHI_UP.bmp"
+BUTTON_SYSTEMTRAY_DOWN  BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_SYSTEMTRAY_DOWN.bmp"
+BUTTON_SYSTEMTRAY_NORM  BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_SYSTEMTRAY_NORM.bmp"
+BUTTON_SYSTEMTRAY_UP    BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_SYSTEMTRAY_UP.bmp"
+IDB_LOGO                BITMAP  DISCARDABLE     "Khajana\\Khajana.bmp"
+IDB_BITMAP6             BITMAP  DISCARDABLE     "BITMAPS\\KBDHLP.bmp"
+IDB_BITMAP7             BITMAP  DISCARDABLE     "BITMAPS\\Running.bmp"
+IDB_BITMAP8             BITMAP  DISCARDABLE     "BITMAPS\\Kilimanegalu copy.bmp"
+IDB_BITMAP9             BITMAP  DISCARDABLE     "KeyBd Hlp\\Cauvery.bmp"
+IDB_BITMAP10            BITMAP  DISCARDABLE     "KeyBd Hlp\\Heamavathi.bmp"
+IDB_BITMAP11            BITMAP  DISCARDABLE     "KeyBd Hlp\\Nethravathi.bmp"
+IDB_BITMAP12            BITMAP  DISCARDABLE     "KeyBd Hlp\\Sharavathi.bmp"
+BUTTON_TUNGA_DOWN       BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_TUNGA_DOWN.bmp"
+BUTTON_TUNGA_NORM       BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_TUNGA_NORM.bmp"
+BUTTON_TUNGA_UP         BITMAP  DISCARDABLE     "BITMAPS\\BUTTON_TUNGA_UP.bmp"
+BUTTOND                 BITMAP  DISCARDABLE     "bitmaps\\bitmap13.bmp"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\Kuvempu.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_TRAY                ICON    DISCARDABLE     "res\\icon1.ico"
+IDI_ICON1               ICON    DISCARDABLE     "res\\icon00001.ico"
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\icon3.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 314, 164
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About Kuvempu Kannada Thantramsha"
+FONT 8, "MS Reference Sans Serif"
+BEGIN
+    LTEXT           "Kuvempu Kannada Thantramsha Version 1.5",IDC_STATIC,85,
+                    14,174,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2009",IDC_STATIC,132,90,77,8
+    DEFPUSHBUTTON   "OK",IDOK,127,143,76,14,WS_GROUP
+    CTEXT           "Kannada University , HAMPI",IDC_STATIC,92,70,215,10
+    LTEXT           "Kannada University , HAMPI",IDC_STATIC,204,98,96,10
+    LTEXT           "kuvempusoft@gmail.com",IDC_STATIC,166,25,84,11
+    LTEXT           "www.kannadauniversity.org",IDC_STATIC,204,126,94,10
+    LTEXT           "kannadauniversity@gmail.com",IDC_STATIC,204,112,103,9
+    CONTROL         193,IDC_STATIC,"Static",SS_BITMAP | SS_SUNKEN,13,32,75,
+                    125
+    LTEXT           "Developed By:",IDC_STATIC,131,54,77,9
+END
+
+IDD_KUVEMPU_DIALOG DIALOGEX 0, 0, 400, 278
+STYLE WS_POPUP | WS_VISIBLE | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         140,IDC_STATIC_NETRAVATHI,"Static",SS_BITMAP | SS_NOTIFY | 
+                    WS_TABSTOP,177,74,60,22
+    CONTROL         170,IDC_STATIC,"Static",SS_BITMAP,0,0,404,297
+    CONTROL         171,IDC_STATIC_CAUVERY,"Static",SS_BITMAP | SS_NOTIFY | 
+                    WS_TABSTOP,210,113,60,22
+    CONTROL         182,IDC_STATIC_SHARAVATHI,"Static",SS_BITMAP | SS_NOTIFY | 
+                    WS_TABSTOP,184,35,60,22
+    CONTROL         176,IDC_STATIC_CONVERTER,"Static",SS_BITMAP | SS_NOTIFY | 
+                    NOT WS_VISIBLE | WS_TABSTOP,87,135,52,21
+    CONTROL         173,IDC_STATIC_CLOSE,"Static",SS_BITMAP | SS_NOTIFY | 
+                    NOT WS_VISIBLE | WS_TABSTOP,155,192,60,15
+    CONTROL         179,IDC_STATIC_HEMAVATHI,"Static",SS_BITMAP | SS_NOTIFY | 
+                    WS_TABSTOP,171,6,60,20
+    CONTROL         206,IDD_HEMAVATHI_HELP,"Static",SS_BITMAP | SS_NOTIFY | 
+                    NOT WS_VISIBLE | WS_TABSTOP,277,25,60,20
+    CONTROL         206,IDD_SHARAVATHI_HELP,"Static",SS_BITMAP | SS_NOTIFY | 
+                    NOT WS_VISIBLE | WS_TABSTOP,270,56,60,20
+    CONTROL         206,IDD_NETRAVATHI_HELP,"Static",SS_BITMAP | SS_NOTIFY | 
+                    NOT WS_VISIBLE | WS_TABSTOP,292,89,60,20
+    CONTROL         206,IDD_CAUVERY_HELP,"Static",SS_BITMAP | SS_NOTIFY | 
+                    NOT WS_VISIBLE | WS_TABSTOP,296,113,60,20
+    CONTROL         216,IDC_STATIC_TUNGA,"Static",SS_BITMAP | SS_NOTIFY | 
+                    WS_TABSTOP,83,95,60,22
+    CONTROL         206,IDD_TUNGA_HELP,"Static",SS_BITMAP | SS_NOTIFY | NOT 
+                    WS_VISIBLE | WS_TABSTOP,307,151,60,20
+    CONTROL         "Button1",IDC_Button,"Button",BS_OWNERDRAW | BS_FLAT | 
+                    WS_TABSTOP,265,212,36,20
+END
+
+IDD_HEMAVATHI_HELP DIALOG DISCARDABLE  0, 0, 533, 177
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | 
+    WS_CAPTION | WS_SYSMENU
+CAPTION "Hemavathi KeyBoard"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         212,IDC_STATIC,"Static",SS_BITMAP,0,0,533,177
+END
+
+IDD_SHARAVATHI_HELP DIALOG DISCARDABLE  0, 0, 533, 182
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | 
+    WS_CAPTION | WS_SYSMENU
+CAPTION "Sharavathi KeyBoard"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         214,IDC_STATIC,"Static",SS_BITMAP,0,0,533,182
+END
+
+IDD_NETRAVATHI_HELP DIALOG DISCARDABLE  0, 0, 534, 177
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | 
+    WS_CAPTION | WS_SYSMENU
+CAPTION "Netravathi KeyBoard"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         213,IDC_STATIC,"Static",SS_BITMAP,0,0,534,177
+END
+
+IDD_CAUVERY_HELP DIALOG DISCARDABLE  0, 0, 533, 177
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | 
+    WS_CAPTION | WS_SYSMENU
+CAPTION "Cauvery KeyBoard"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         211,IDC_STATIC,"Static",SS_BITMAP,0,0,533,177
+END
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 133, 41
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Alert"
+FONT 12, "Kuvempu_Eng_0001"
+BEGIN
+    CONTROL         209,IDC_STATICRUNING,"Static",SS_BITMAP,0,0,133,41
+END
+
+IDD_TUNGA_HELP DIALOG DISCARDABLE  0, 0, 633, 209
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Tunga Help"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         220,IDC_STATIC,"Static",SS_BITMAP,0,0,645,210
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,5
+ PRODUCTVERSION 1,0,1,5
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "Kuvempu MFC Application\0"
+            VALUE "FileVersion", "1, 0, 0, 5\0"
+            VALUE "InternalName", "Kuvempu\0"
+            VALUE "LegalCopyright", "Copyright (C) 2007\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "Kuvempu.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Kuvempu Application\0"
+            VALUE "ProductVersion", "1, 0, 1, 5\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 307
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_NETRAVATHI_HELP, DIALOG
+    BEGIN
+        RIGHTMARGIN, 533
+    END
+
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        RIGHTMARGIN, 132
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_POPUP_MENU MENU DISCARDABLE 
+BEGIN
+    POPUP "Kuvempu"
+    BEGIN
+        POPUP "KeyBoards"
+        BEGIN
+            MENUITEM "&Hemavathi",                  ID_TRAYMENU_ITEM1
+            MENUITEM "&Sharavathi",                 ID_TRAYMENU_ITEM2
+            MENUITEM "&Netravathi",                 ID_TRAYMENU_ITEM3
+            MENUITEM "&Cauvery",                    ID_TRAYMENU_ITEM4
+            MENUITEM "&Tunga",                      ID_TRAYMENU_ITEM5
+        END
+        MENUITEM "Text &Converter",             ID_TRAYMENU_ITEM6
+        MENUITEM SEPARATOR
+        MENUITEM "&About",                      ID_TRAYMENU_ITEM11
+        MENUITEM "&Open",                       ID_TRAYMENU_ITEM9
+        MENUITEM "C&lose",                      ID_TRAYMENU_ITEM10
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "&About Kuvempu..."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_Button               "IDC_BUTTON1"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\Kuvempu.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

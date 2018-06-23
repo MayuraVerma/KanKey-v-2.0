@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Railwire Services> login</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<style type="text/css">
+<!--
+textarea,input,select {
+	background-color: #FFFFFF;
+	border: 1px #888888 solid;
+	padding: 2px;
+	margin: 1px;
+	font-size: 14px;
+	color: #555555;
+}
+
+body{ color: #737373; font-size: 10px; font-family: verdana; }
+
+a, a:link, a:visited, a:active { color: #AAAAAA; text-decoration: none; font-size: 10px; }
+a:hover { border-bottom: 1px dotted #c1c1c1; color: #AAAAAA; }
+img {border: none;}
+td { font-size: 14px; color: #7A7A7A; }
+
+-->
+</style>
+</head>
+
+<body>
+
+
+<table width="100%" height="100%">
+
+<tr>
+<td align="center" valign="middle">
+
+<div style="color: #555555; font-size: 12px">Please log on to use the Railwire service</div><br>
+
+<table width="240" height="240" style="border: 1px solid #555555; padding: 0px;" cellpadding="0" cellspacing="0">
+
+<tr><td align="center"><a href="http://www.railwire.co.in" target="_blank" style="border: none;"><img src="/img/logobottom.png" /></a></td></tr>
+
+<tr>
+<td align="center" valign="bottom" height="175" colspan="2">
+
+	<form name="login" action="http://hs.railwire.co.in/login" method="post"
+	    >
+		<input type="hidden" name="dst" value="http://mail.shabdalipi.com/Main/frmReadMail_Attachment.aspx?folder=inbox&amp;uid=22&amp;partid=4&amp;filename=Photograph+(5).jpg&amp;user=anand&amp;mapped=False">
+		<input type="hidden" name="popup" value="true">
+		
+			<table width="100" style="background-color: #ffffff">
+				<tr><td align="right">Username</td>
+						<td><input style="width: 80px" name="username" type="text" value=""/></td>
+				</tr>
+				<tr><td align="right">password</td>
+						<td><input style="width: 80px" name="password" type="password"/></td>
+				</tr>
+				<tr><td>&nbsp;</td>
+						<td><input type="submit" value="OK"></td>
+				</tr>
+			</table>
+		</form>
+		
+</td>
+</tr>
+
+
+</table>
+
+<br><a href="http://www.railwire.co.in" target="_blank" style="border: none;"><div style="color: #555555; font-size: 12px">	For assistance, contact your Agent or the RailWire Customer Support @ 080 67898899 </div>
+
+<br><div style="color: #555555; font-size: 12px">Service provided by Railtel Corporation Of India Limited.</div>
+
+
+
+
+</td>
+</tr>
+</table>
+
+<script language="JavaScript">
+<!--
+  document.login.username.focus();
+//-->
+</script>
+
+</body>
+</html>
+

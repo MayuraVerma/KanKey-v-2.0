@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Sharavathi - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSP19F.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "_WINDLL" /D "_AFXDLL" /FR"Debug/" /Fp"Debug/Sharavathi.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"I:\kannada\ASCII\WINDOWS\KKT v 2.0\Sharavathi\Sharavathi.cpp"
+]
+Creating command line "cl.exe @F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSP19F.tmp" 
+Creating temporary file "F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSP1A0.tmp" with contents
+[
+/nologo /subsystem:windows /dll /incremental:yes /pdb:"..\KuvempuEXE/Sharavathi.pdb" /debug /machine:I386 /def:".\Sharavathi.def" /out:"..\KuvempuEXE/Sharavathi.dll" /implib:"..\KuvempuEXE/Sharavathi.lib" /pdbtype:sept 
+".\Debug\Sharavathi.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Sharavathi.res"
+]
+Creating command line "link.exe @F:\DOCUME~1\SUDHEE~1.000\LOCALS~1\Temp\RSP1A0.tmp"
+<h3>Output Window</h3>
+Compiling...
+Sharavathi.cpp
+Linking...
+   Creating library ..\KuvempuEXE/Sharavathi.lib and object ..\KuvempuEXE/Sharavathi.exp
+Creating command line "bscmake.exe /nologo /o"..\KuvempuEXE/Sharavathi.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\Sharavathi.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Sharavathi.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

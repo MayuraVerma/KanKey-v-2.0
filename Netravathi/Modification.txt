@@ -1,0 +1,14 @@
+---------------------------------------
+problem encountered 
+
+last modified on thursday 17 aug 2006
+no major changes 
+
+Problem with the character p+E 
+not found the problem yet analyzing
+
+Problem solved line 290 added 
+no major modification 
+corrected on 17 aug 2006
+-------------------------------------
+

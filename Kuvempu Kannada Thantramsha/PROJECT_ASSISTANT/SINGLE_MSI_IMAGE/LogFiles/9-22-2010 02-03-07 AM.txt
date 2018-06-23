@@ -1,0 +1,83 @@
+================= Logging started at 9/22/2010 02:03:07 AM ==================
+Created release folders
+AdminExecuteSequence table successfully built
+AdminUISequence table successfully built
+AdvtExecuteSequence table successfully built
+AdvtUISequence table successfully built
+InstallExecuteSequence table successfully built
+InstallUISequence table successfully built
+Directory table successfully built
+Feature table successfully built
+FeatureComponents table successfully built
+Component table successfully built
+Loading File table
+Building File table
+Merging modules...
+Merging Microsoft Component Category Manager Library: D:\Program Files\Common Files\Merge Modules\COMCAT.MSM
+Merging MFCDLL Shared Library - Retail Version: D:\Program Files\Common Files\Merge Modules\MFC42.MSM
+Merging Microsoft (R) C Runtime Library: D:\Program Files\Common Files\Merge Modules\MSVCRT.MSM
+Merging Microsoft OLE 2.40  for Windows NT(TM) and Windows 95(TM) Operating Systems: D:\Program Files\Common Files\Merge Modules\OLEAUT32.MSM
+File table successfully built
+Class table successfully built
+Extension table successfully built
+ODBCDataSource table successfully built
+ODBCDriver table successfully built
+ActionText table successfully built
+AppSearch table successfully built
+BindImage table successfully built
+CCPSearch table successfully built
+Condition table successfully built
+AppId table successfully built
+Property table successfully built
+BBControl table successfully built
+Billboard table successfully built
+ISDEV : error -1024: File  not found. Cannot stream the file into the Binary table
+ISDEV : error -1024: File  not found. Cannot stream the file into the Binary table
+Binary table successfully built
+CompLocator table successfully built
+Complus table successfully built
+ControlCondition table successfully built
+ControlEvent table successfully built
+CreateFolder table successfully built
+CustomAction table successfully built
+Error table successfully built
+DrLocator table successfully built
+DuplicateFile table successfully built
+Environment table successfully built
+EventMapping table successfully built
+FileSFPCatalog table successfully built
+Font table successfully built
+IniFile table successfully built
+IniLocator table successfully built
+IsolatedComponent table successfully built
+ISSelfReg table successfully built
+Verb table successfully built
+LaunchCondition table successfully built
+LockPermissions table successfully built
+MIME table successfully built
+MoveFile table successfully built
+MsiAssembly table successfully built
+MsiAssemblyName table successfully built
+MsiDigitalCertificate table successfully built
+MsiDigitalSignature table successfully built
+ODBCAttribute table successfully built
+ODBCSourceAttribute table successfully built
+ODBCTranslator table successfully built
+PatchPackage table successfully built
+ProgId table successfully built
+PublishComponent table successfully built
+Registry table successfully built
+RegLocator table successfully built
+RemoveFile table successfully built
+RemoveIniFile table successfully built
+RemoveRegistry table successfully built
+ReserveCost table successfully built
+SelfReg table successfully built
+ServiceControl table successfully built
+ServiceInstall table successfully built
+SFPCatalog table successfully built
+ISDEV : fatal error -7119: Component Text_Converter.exe5 does not have a key file for Advertised Shortcut Text_Converter.exe. Advertised shortcuts must have an EXE file as the key file of the component in order to use an alternate icon. The system icon for this file type will be used instead.
+PROJECT_ASSISTANT\SINGLE_MSI_IMAGE - 3 error(s), 0 warning(s)
+================= Logging stopped at 9/22/2010 02:03:11 AM ==================
+Log file has been created: <file:N:\kannada\ASCII\WINDOWS\KKT v 2.0\Kuvempu Kannada Thantramsha\PROJECT_ASSISTANT\SINGLE_MSI_IMAGE\LogFiles\9-22-2010 02-03-07 AM.txt>
+

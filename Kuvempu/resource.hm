@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by Kuvempu.rc
+//
+#define HIDC_STATIC_SYSTEMTRAY          0x806603f2    // IDD_KUVEMPU_DIALOG

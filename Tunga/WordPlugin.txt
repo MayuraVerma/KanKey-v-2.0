@@ -1,0 +1,6 @@
+Private Declare Function InstallKeyboardHookTunga Lib "Tunga.dll" () As Boolean
+
+Sub Macro1()
+Dim myVar As Boolean
+myVar = InstallKeyboardHookTunga()
+End Sub
